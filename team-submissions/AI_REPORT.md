@@ -1,4 +1,4 @@
-## AI-Assisted Workflow, Verification, and Reflection
+## AI Report
 
 ### 1. Workflow
 
@@ -17,7 +17,7 @@ We validated the AI-generated code by running and testing it locally using VS Co
 
 ---
 
-### 3. Reflection (Win / Learn / Fail)
+### 3. The "Vibe" Log
 
 #### Win
 
